@@ -1,5 +1,6 @@
+//program which stores details of employee in a company, you can search persons detail(name,age,and wage) in company via inputing their name.
 #include<iostream>
-//#include<string>
+#include<string>
 #include<stdlib.h>
 using namespace std;
 class company{
