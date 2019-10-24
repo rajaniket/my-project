@@ -1,3 +1,7 @@
+//Voting machine (vote the candidates numbered from 1 to 5, and display the results.
+//The candidates are numbered from 1 to 5 and voting is done by pressing candidates number.
+//If the number is outside the range 1 to 5 the ballot should considered as a 'spoilt ballot'.
+
 #include<stdio.h>
 #include<iostream>
 #include<conio.h>
