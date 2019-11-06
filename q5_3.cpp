@@ -70,7 +70,7 @@ int main()
 bank a[9];
 int c=0,x=0;
 while(x!=3){
-cout<<"\nType 1: To add account\nType 2: Customers login (To Check balance,Deposit & withdraw)\nType 3: To exit\nChoose options : ";
+cout<<"\nType 1: To add account\nType 2: Customers login (To Check balance,Deposit & withdraw)\nType 3: Bank Employee Login\nType 4: To exit\nChoose options : ";
 cin>>x;
 cout<<"\n";
 switch(x){
@@ -108,6 +108,13 @@ switch(h)
 }
 }
 break;}
+case 4:{
+cout<<"\nType 1: To Check all customers account details\nType 2: To check customers account details according to balance\nType 3: To Logout"<<endl;
+
+
+
+}
+    
 
 case 3:
 exit(0);
