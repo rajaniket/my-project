@@ -1,6 +1,6 @@
 # My-project
 Hello
-This repository conained many of projects consisting by using c++
+This repository contained my small projects consisting by using c++
 
 # Project-1
 Voting Machine 
